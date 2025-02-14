@@ -20,12 +20,17 @@ We aim to reduce living costs and combat social isolation among Chicago’s olde
 **III.	Data Sources and Methodology** 
 
 The AARP Livability Index evaluates general community livability for residents regardless of age across seven categories: Housing, Neighborhood, Transportation, Environment, Health, Engagement, and Opportunity, assigning scores from 0 to 100. Metrics include housing availability and costs, healthcare access, transit options, pollution levels, broadband access, and income inequality. A community's livability score averages these categories, offering a comprehensive measure of neighborhood quality.
+
+Figure 1 illustrates overall livability scores for the Chicago area. 
+
 https://github.com/jiayinw/Chicago_Senior_Shared_Housing_Project/blob/main/Map/chicago_neighborhood_map.html
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/507446a5-ffae-45b8-99a1-199ef24e6491" />
-Figure 1 illustrates overall livability scores for the Chicago area. In general, communities in South Chicago score within the medium range, indicating that their livability is comparable to most other Chicago communities. Pullman Park stands out with a low score (40-49), suggesting the need for targeted efforts to improve infrastructure and make it more resident-friendly. Alternatively, relocating elderly residents to higher-scoring communities remains an option.
+
+In general, communities in South Chicago score within the medium range, indicating that their livability is comparable to most other Chicago communities. Pullman Park stands out with a low score (40-49), suggesting the need for targeted efforts to improve infrastructure and make it more resident-friendly. Alternatively, relocating elderly residents to higher-scoring communities remains an option.
  
 Figure 2:Score for healthcare accessibility for whole Chicago area
+
 <img width="294" alt="image" src="https://github.com/user-attachments/assets/92b6a96b-be8c-4a40-af96-75962f991112" />
 
 Figure 2 highlights Chicago’s healthcare accessibility scores. Kenwood and Hyde Park demonstrate slightly higher scores compared to other South Side communities. Most South Side communities have lower healthcare accessibility scores than other areas in Chicago, indicating that the South Side faces healthcare accessibility challenges.
